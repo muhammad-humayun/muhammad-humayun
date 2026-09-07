@@ -26,6 +26,7 @@ I use **Python, Pandas, NumPy, SQL, and BI tools** to uncover insights and help 
 - 🐍 Skilled in **Python, Pandas, NumPy, Scikit-learn**  
 - 🚀 Exploring **machine learning models** & real-world data projects  
 - 📫 Email me: **humayunmuhammad902@gmail.com**
+- Linkedin: https://pk.linkedin.com/in/humayunmuhammad
 
 ---
 
