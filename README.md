@@ -1,111 +1,134 @@
-<!-- 🎯 Data Analyst GitHub Profile README (Clean, Pro, Impactful) -->
-
-<h1 align="center">Hi 👋 I'm Muhammad Humayun</h1>
-<h3 align="center">Junior Software Developer at Logicose | C# | .NET | ASP.NET Core | REST APIs | SQL | AI & RAG</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,50:0078D4,100:00B4D8&height=210&section=header&text=Muhammad%20Humayun&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Developer%20%40%20Logicose%20%E2%80%A2%20.NET%20%E2%80%A2%20AI%20%26%20RAG&descAlignY=56&descSize=18" width="100%"/>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/humayunmuhammad/" target="_blank">
-    <img src="https://img.shields.io/badge/Message%20Me%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://instagram.com/humayun_tech" target="_blank">
-    <img src="https://img.shields.io/badge/Follow%20Me%20on-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=0078D4&center=true&vCenter=true&width=640&lines=Software+Developer+%40+Logicose;C%23+%E2%80%A2+.NET+%E2%80%A2+ASP.NET+Core+%E2%80%A2+REST+APIs;SQL+Server+%E2%80%A2+MySQL+%E2%80%A2+MongoDB;Python+%E2%80%A2+Machine+Learning+%E2%80%A2+Data+Analysis;Building+AI+%26+RAG+applications+in+.NET" alt="Typing SVG"/></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=khuhrohumayun&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views"/>
+<a href="https://pk.linkedin.com/in/humayunmuhammad" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.kaggle.com/humayunmuhammad" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
+<a href="mailto:humayunmuhammad902@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://muhammad-humayun.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-512BD4?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
 </p>
 
----
+<p align="center">
+<img src="https://img.shields.io/badge/Location-Karachi%2C%20Pakistan-0078D4?style=flat-square&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/Focus-.NET%20%2B%20AI%20Engineering-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+<img src="https://komarev.com/ghpvc/?username=muhammad-humayun&label=Profile%20views&color=0078D4&style=flat-square" alt="Profile views"/>
+</p>
+
+<br/>
 
 ## 🧠 About Me
 
-Third-year **Computer Science student** and **Junior Software Developer at Logicose**, focused on building backend applications and exploring **AI-powered software solutions**.
+<img align="right" src="https://skillicons.dev/icons?i=cs,dotnet,python,mysql,mongodb,git&perline=3" alt="Core stack" width="220"/>
 
-I work with **C#, .NET, ASP.NET Core, REST APIs, SQL, and databases**, while continuing to build on my foundation in **Python, data analysis, machine learning, and AI**.
+**Software Developer at [Logicose](https://logicose.com)** and third-year **Computer Science student at Iqra University, Karachi**. I build backend systems in **C# / .NET / ASP.NET Core** and I'm steadily moving toward **AI engineering** — bringing LLMs and Retrieval-Augmented Generation into .NET applications.
 
-* 💻 Working as a **Junior Software Developer at Logicose**
-* 🚀 Focused on **C#, .NET, ASP.NET Core & RESTful APIs**
-* 🗄️ Working with **SQL, MySQL, MongoDB & backend data management**
-* 🤖 Exploring **Artificial Intelligence, LLMs & Retrieval-Augmented Generation (RAG)**
-* 🐍 Experienced with **Python, Pandas, NumPy & Scikit-learn**
-* 📊 Background in **Data Analysis, Visualization & Machine Learning**
-* 🔨 Building real-world **software development and AI projects**
-* 📚 Continuously learning and improving as a **Software Developer & AI Engineer**
-* 📫 Email me: **[humayunmuhammad902@gmail.com](mailto:humayunmuhammad902@gmail.com)**
-* Linkedin: https://pk.linkedin.com/in/humayunmuhammad
+My foundation is in **Python, data analysis and machine learning**, which is why most of my public work here is data and ML projects; the .NET work lives in client systems at Logicose.
 
----
+- 💻 **Backend**: C#, .NET, ASP.NET Core, REST APIs, SQL Server
+- 🤖 **AI**: LLMs, RAG pipelines, AI agents, AI-powered application development
+- 📊 **Data**: Python, Pandas, NumPy, Scikit-learn, Power BI
+- 🗄️ **Databases**: SQL Server, MySQL, MongoDB
+- 📚 **Now learning**: .NET + AI engineering (Semantic Kernel, vector search, RAG in .NET)
 
-## 🚀 Highlight Projects
+<br clear="right"/>
 
-| Project                                                                                       | Description                                                                                                                                                   |
-| --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [`Customer-Behavior-Analysis`](https://github.com/khuhrohumayun/Customer-Behavior-Analaysis)  | A complete end-to-end data analytics project using Python, MySQL and Power BI for data preparation, analysis, visualization, and business insight generation. |
-| [`Face-Recognization-Using-LBP`](https://github.com/khuhrohumayun/Face-Recognition-Using-LBP) | Image recognition project using Local Binary Patterns (LBP) for feature extraction with Python and OpenCV.                                                    |
-| [`kids-math`](https://github.com/khuhrohumayun/Kids-Math)                                     | Flutter-based educational game teaching kids basic math through fun quizzes and challenges.                                                                   |
-| [`java-dsa-visualization`](https://github.com/khuhrohumayun/java-dsa-visualization-master)    | Data Structures and Algorithms visualization application developed using Java Swing.                                                                          |
+## 🚀 Featured Projects
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/muhammad-humayun/Job-Market-Intelligence">📈 Job Market Intelligence</a></h3>
+<p>Analytics platform for the Pakistani job market — full-stack ETL pipeline, NLP on job postings, ML forecasting and a Streamlit dashboard.</p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/NLP-512BD4?style=flat-square"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/muhammad-humayun/Introduction-to-Machine-Learning-with-Python">📘 Intro to Machine Learning with Python</a></h3>
+<p>Chapter-by-chapter notebooks and exercises from Müller &amp; Guido's book — supervised and unsupervised learning, model evaluation and pipelines, worked through by hand.</p>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/muhammad-humayun/Customer-Behavior-Analaysis">🛒 Customer Behavior Analysis</a></h3>
+<p>End-to-end analytics project: data cleaning in Python, modelling in MySQL and a Power BI dashboard that turns customer data into business insights.</p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/muhammad-humayun/Face-Recognition-Using-LBP">🙂 Face Recognition with LBP</a></h3>
+<p>Classical face recognition — Local Binary Pattern feature extraction with OpenCV and an ML classifier on top.</p>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/muhammad-humayun/DSA_with_Python">🧮 DSA with Python</a></h3>
+<p>Data structures and algorithms implemented topic by topic in Python — the reference I built while preparing for technical interviews.</p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Algorithms-0078D4?style=flat-square"/>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/muhammad-humayun/java-dsa-visualization-master">🧩 DSA Visualizer</a></h3>
+<p>Java Swing app that animates Stack, Queue, Linked List and HashMap operations for students.</p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Swing-5382A1?style=flat-square"/>
+</td>
+</tr>
+</table>
 
-## 🛠️ Technical Skillset
+<p align="center"><sub>Also: <a href="https://github.com/muhammad-humayun/Pandas">Pandas step-by-step</a> · <a href="https://github.com/muhammad-humayun/Interview_Questions">Python interview questions</a> · <a href="https://github.com/muhammad-humayun/Python_Projects">Python projects</a> · <a href="https://github.com/muhammad-humayun/MySQL">MySQL notes</a></sub></p>
 
-* **Programming**: C#, Python, SQL, C++, Java (basics)
-* **Backend Development**: .NET, ASP.NET Core, REST APIs
-* **Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn
-* **BI & Visualization**: Power BI, Tableau, Excel
-* **Machine Learning**: Scikit-learn, TensorFlow (basics), Keras
-* **AI & RAG**: LLMs, Retrieval-Augmented Generation (RAG), AI Application Development
-* **Databases**: MySQL, MongoDB, SQL
-* **Tools**: Git/GitHub, Jupyter Notebook, VS Code, Visual Studio
-
----
-
-## 📜 Certifications
-
-* ✅ **Python** — Kaggle (2024)
-* ✅ **Google Data Analytics** — Coursera (in progress)
-
----
-
-## 🎓 Education
-
-**B.S. Computer Science** — Iqra University
-📍 Karachi, Pakistan | 2024–2028
-**CGPA: 3.2**
-
----
-
-## 💻 GitHub Stats
-
-<div align="center">
-
-  <img width="49%" height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=khuhrohumayun&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Muhammad Humayun github stats" /> 
-
-  <img width="41%" height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=khuhrohumayun&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
-
-</div>
-
-<div align="center">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khuhrohumayun&theme=dark&hide_border=true&stroke=0000&background=0d1117&currStreakLabel=ff91a4&sideLabels=ff91a4&currStreakNum=ff91a4&dates=c9d1d9&sideNums=c9d1d9" alt="Muhammad Humayun" />
-
-</div>
-
----
-
-## 🌍 Connect With Me
+## 🛠️ Tech Stack
 
 <p align="center">
-  <a href="mailto:humayunmuhammad902@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/humayunmuhammad" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/humayun_tech/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,python,java,cpp,mysql,mongodb,sqlite,html,css,flutter,git,github,vscode,visualstudio,jupyter&perline=8" alt="Tech stack"/>
 </p>
 
-<p align="center">💻 Building software today, exploring AI for tomorrow 🚀</p>
+<p align="center">
+<img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20APIs-0078D4?style=flat-square&logo=swagger&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLMs%20%26%20RAG-00B4D8?style=flat-square&logo=openai&logoColor=white"/>
+</p>
+
+## 📜 Certifications & Education
+
+<table>
+<tr>
+<td align="center" width="90">🎓</td>
+<td><b>B.S. Computer Science</b> · Iqra University, Karachi<br/><sub>2024 – 2028 · CGPA 3.2</sub></td>
+</tr>
+<tr>
+<td align="center">✅</td>
+<td><b>Python</b> · Kaggle <sub>(2024)</sub></td>
+</tr>
+<tr>
+<td align="center">⏳</td>
+<td><b>Google Data Analytics</b> · Coursera <sub>(in progress)</sub></td>
+</tr>
+</table>
+
+## 📊 GitHub Activity
+
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=muhammad-humayun&theme=dark&hide_border=true&background=0D1117&ring=0078D4&fire=00B4D8&currStreakLabel=0078D4&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="GitHub streak"/>
+</p>
+
+## 🌍 Connect
+
+<p align="center">
+<a href="https://pk.linkedin.com/in/humayunmuhammad" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.kaggle.com/humayunmuhammad" target="_blank"><img src="https://img.shields.io/badge/Kaggle-Follow-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+<a href="https://instagram.com/humayun_tech" target="_blank"><img src="https://img.shields.io/badge/Instagram-humayun__tech-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="mailto:humayunmuhammad902@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+<p align="center"><i>💻 Building software today, exploring AI for tomorrow 🚀</i></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,50:0078D4,100:512BD4&height=120&section=footer" width="100%"/>
