@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,50:0078D4,100:00B4D8&height=210&section=header&text=Muhammad%20Humayun&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Developer%20%40%20Logicose%20%E2%80%A2%20.NET%20%E2%80%A2%20AI%20%26%20RAG&descAlignY=56&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,50:0078D4,100:00B4D8&height=210&section=header&text=Muhammad%20Humayun&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Developer%20%40%20Logicose%20%E2%80%A2%20.NET%20%E2%80%A2%20AI%20and%20RAG&descAlignY=56&descSize=18" width="100%"/>
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=0078D4&center=true&vCenter=true&width=640&lines=Software+Developer+%40+Logicose;C%23+%E2%80%A2+.NET+%E2%80%A2+ASP.NET+Core+%E2%80%A2+REST+APIs;SQL+Server+%E2%80%A2+MySQL+%E2%80%A2+MongoDB;Python+%E2%80%A2+Machine+Learning+%E2%80%A2+Data+Analysis;Building+AI+%26+RAG+applications+in+.NET" alt="Typing SVG"/></a>
@@ -117,7 +117,7 @@ My foundation is in **Python, data analysis and machine learning**, which is why
 ## 📊 GitHub Activity
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=muhammad-humayun&theme=dark&hide_border=true&background=0D1117&ring=0078D4&fire=00B4D8&currStreakLabel=0078D4&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="GitHub streak"/>
+<img src="https://ghchart.rshah.org/0078D4/muhammad-humayun" alt="Contribution graph" width="100%"/>
 </p>
 
 ## 🌍 Connect
