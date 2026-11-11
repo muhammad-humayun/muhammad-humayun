@@ -40,14 +40,14 @@ My foundation is in **Python, data analysis and machine learning**, which is why
 <table>
 <tr>
 <td width="50%" valign="top">
+<h3><a href="https://github.com/muhammad-humayun/Hospital-Management-System">🏥 HospitalCare — Hospital Management System</a></h3>
+<p>Full-stack hospital management app — layered ASP.NET Core 8 Web API with Dapper and SQL Server stored procedures, Angular client, appointments with double-booking check, document uploads, notifications and e-mail OTP registration.</p>
+<img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/ASP.NET%20Core%208-512BD4?style=flat-square&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/> <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+</td>
+<td width="50%" valign="top">
 <h3><a href="https://github.com/muhammad-humayun/Job-Market-Intelligence">📈 Job Market Intelligence</a></h3>
 <p>Analytics platform for the Pakistani job market — full-stack ETL pipeline, NLP on job postings, ML forecasting and a Streamlit dashboard.</p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/NLP-512BD4?style=flat-square"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-</td>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/muhammad-humayun/Introduction-to-Machine-Learning-with-Python">📘 Intro to Machine Learning with Python</a></h3>
-<p>Chapter-by-chapter notebooks and exercises from Müller &amp; Guido's book — supervised and unsupervised learning, model evaluation and pipelines, worked through by hand.</p>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 </td>
 </tr>
 <tr>
@@ -62,21 +62,9 @@ My foundation is in **Python, data analysis and machine learning**, which is why
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/muhammad-humayun/DSA_with_Python">🧮 DSA with Python</a></h3>
-<p>Data structures and algorithms implemented topic by topic in Python — the reference I built while preparing for technical interviews.</p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Algorithms-0078D4?style=flat-square"/>
-</td>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/muhammad-humayun/java-dsa-visualization-master">🧩 DSA Visualizer</a></h3>
-<p>Java Swing app that animates Stack, Queue, Linked List and HashMap operations for students.</p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Swing-5382A1?style=flat-square"/>
-</td>
-</tr>
 </table>
 
-<p align="center"><sub>Also: <a href="https://github.com/muhammad-humayun/Pandas">Pandas step-by-step</a> · <a href="https://github.com/muhammad-humayun/Interview_Questions">Python interview questions</a> · <a href="https://github.com/muhammad-humayun/Python_Projects">Python projects</a> · <a href="https://github.com/muhammad-humayun/MySQL">MySQL notes</a></sub></p>
+<p align="center"><a href="https://github.com/muhammad-humayun?tab=repositories"><b>See all repositories →</b></a></p>
 
 ## 🛠️ Tech Stack
 
@@ -117,7 +105,11 @@ My foundation is in **Python, data analysis and machine learning**, which is why
 ## 📊 GitHub Activity
 
 <p align="center">
-<img src="https://ghchart.rshah.org/0078D4/muhammad-humayun" alt="Contribution graph" width="100%"/>
+<img src="https://streak-stats.demolab.com/?user=muhammad-humayun&theme=tokyonight&hide_border=true" alt="GitHub streak" height="180"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammad-humayun&theme=tokyonight" alt="Contribution chart" width="100%"/>
 </p>
 
 ## 🌍 Connect
