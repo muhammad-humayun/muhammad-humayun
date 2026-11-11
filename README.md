@@ -109,7 +109,7 @@ My foundation is in **Python, data analysis and machine learning**, which is why
 </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammad-humayun&theme=tokyonight" alt="Contribution chart" width="100%"/>
+<img src="assets/contributions.svg" alt="Contributions in the last year" width="100%"/>
 </p>
 
 ## 🌍 Connect
