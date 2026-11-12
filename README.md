@@ -45,16 +45,16 @@ My foundation is in **Python, data analysis and machine learning**, which is why
 <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/ASP.NET%20Core%208-512BD4?style=flat-square&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/> <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
 </td>
 <td width="50%" valign="top">
-<h3><a href="https://github.com/muhammad-humayun/Job-Market-Intelligence">📈 Job Market Intelligence</a></h3>
-<p>Analytics platform for the Pakistani job market — full-stack ETL pipeline, NLP on job postings, ML forecasting and a Streamlit dashboard.</p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/NLP-512BD4?style=flat-square"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+<h3><a href="https://github.com/muhammad-humayun/Khuhra-Fruit-Company">🍋 Khuhra Fruit Company — Shop with AI Assistant</a></h3>
+<p>Bilingual (English / Sindhi, right-to-left) shop site for a real fruit and vegetable business — ASP.NET Core 8 API with Dapper and stored procedures, Angular client, JWT admin area and an AI assistant built on Semantic Kernel.</p>
+<img src="https://img.shields.io/badge/ASP.NET%20Core%208-512BD4?style=flat-square&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/> <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/> <img src="https://img.shields.io/badge/Semantic%20Kernel-0078D4?style=flat-square"/>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3><a href="https://github.com/muhammad-humayun/Customer-Behavior-Analaysis">🛒 Customer Behavior Analysis</a></h3>
-<p>End-to-end analytics project: data cleaning in Python, modelling in MySQL and a Power BI dashboard that turns customer data into business insights.</p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<h3><a href="https://github.com/muhammad-humayun/Job-Market-Intelligence">📈 Job Market Intelligence</a></h3>
+<p>Analytics platform for the Pakistani job market — full-stack ETL pipeline, NLP on job postings, ML forecasting and a Streamlit dashboard.</p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/NLP-512BD4?style=flat-square"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
 </td>
 <td width="50%" valign="top">
 <h3><a href="https://github.com/muhammad-humayun/Face-Recognition-Using-LBP">🙂 Face Recognition with LBP</a></h3>
